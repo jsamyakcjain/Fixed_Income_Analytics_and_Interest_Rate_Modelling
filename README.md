@@ -1,4 +1,4 @@
-# Quantitative Fixed Income Analytics
+# Fixed Income Analytics & Stochastic Interest Rate Modeling Project
 
 This repository contains a comprehensive Python project for quantitative analysis of fixed income securities. It covers fundamental concepts such as present value, bond valuation, yield to maturity (YTM), duration, and convexity. Beyond basic valuation, it delves into constructing yield curves using bootstrapping and calculating forward rates. The project also implements advanced stochastic interest rate models, including the Vasicek and Cox-Ingersoll-Ross (CIR) models, providing both analytical solutions for Zero-Coupon Bond (ZCB) pricing and Monte Carlo simulations for rate path generation and valuation.
 
